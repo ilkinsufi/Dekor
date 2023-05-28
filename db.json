@@ -1,0 +1,242 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": [
+        "https://htmldemo.net/dkoor/dkoor/assets/images/shop/banner/3.png"
+      ],
+      "title": "Lena Kreslo (Aksesuar)",
+      "price": "69.99",
+      "category": "Kreslolar",
+      "color": "#daad25",
+      "size": "m",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum"
+    },
+    {
+      "id": 2,
+      "image": [
+        "https://htmldemo.net/dkoor/dkoor/assets/images/shop/banner/1.png",
+        ""
+      ],
+      "title": "Rosaline Kreslo",
+      "price": "29.99",
+      "category": "Kreslolar",
+      "color": "#646e8c",
+      "size": "m",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum"
+    },
+    {
+      "id": 3,
+      "image": [
+        "https://htmldemo.net/dkoor/dkoor/assets/images/shop/9.jpg",
+        ""
+      ],
+      "title": "Brach Kreslo",
+      "price": "39.99",
+      "category": "Kreslolar",
+      "color": "#818181",
+      "size": "m",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum"
+    },
+    {
+      "id": 4,
+      "image": [
+        "https://htmldemo.net/dkoor/dkoor/assets/images/shop/8.jpg",
+        ""
+      ],
+      "title": "Kataniya",
+      "price": "49.99",
+      "category": "Kreslolar",
+      "color": "#a67958",
+      "size": "s",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum"
+    },
+
+    {
+      "id": 5,
+      "image": [
+        "https://htmldemo.net/dkoor/dkoor/assets/images/shop/h2.jpg",
+        ""
+      ],
+      "title": "Mashoor Stul",
+      "price": "15",
+      "category": "Stullar",
+      "color": "#e2dacf",
+      "size": "s",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum"
+    },
+    {
+      "id": 6,
+      "image": [
+        "https://htmldemo.net/dkoor/dkoor/assets/images/shop/1.jpg",
+        ""
+      ],
+      "title": "Naoir Stul",
+      "price": "20",
+      "category": "Stullar",
+      "color": "#b46875",
+      "size": "s",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum"
+    },
+    {
+      "id": 7,
+      "image": [
+        "https://htmldemo.net/dkoor/dkoor/assets/images/shop/7.jpg",
+        ""
+      ],
+      "title": "Woody Stul",
+      "price": "25",
+      "category": "Stullar",
+      "color": "#3d5861",
+      "size": "s",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum"
+    },
+    {
+      "id": 8,
+      "image": [
+        "https://htmldemo.net/dkoor/dkoor/assets/images/shop/4.jpg",
+        ""
+      ],
+      "title": "Brownier",
+      "price": "24",
+      "category": "Dekorlar",
+      "color": "#a67958",
+      "size": "l",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum"
+    },
+    {
+      "id": 9,
+      "image": [
+        "https://htmldemo.net/dkoor/dkoor/assets/images/shop/2.jpg",
+        ""
+      ],
+      "title": "Cylndy",
+      "price": "34",
+      "category": "Dekorlar",
+      "color": "gray",
+      "size": "l",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum"
+    },
+    {
+      "id": 10,
+      "image": [
+        "https://htmldemo.net/dkoor/dkoor/assets/images/shop/5.jpg",
+        ""
+      ],
+      "title": "Abajour",
+      "price": "32",
+      "category": "Dekorlar",
+      "color": "#e2dacf",
+      "size": "l",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum"
+    },
+    {
+      "id": 11,
+      "image": [
+        "https://htmldemo.net/dkoor/dkoor/assets/images/shop/6.jpg",
+        ""
+      ],
+      "title": "Plamira",
+      "price": "72",
+      "category": "Dekorlar",
+      "color": "#e2dacf",
+      "size": "l",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum"
+    },
+    {
+      "id": 12,
+      "image": [
+        "https://htmldemo.net/dkoor/dkoor/assets/images/shop/h11.jpg",
+        ""
+      ],
+      "title": "Lena Kreslo",
+      "price": "48",
+      "category": "Dekorlar",
+      "color": "#e2dacf",
+      "size": "l",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum"
+    },
+    {
+      "id": 13,
+      "image": [
+        "https://htmldemo.net/dkoor/dkoor/assets/images/shop/h10.jpg",
+        ""
+      ],
+      "title": "Lampa",
+      "price": "48",
+      "category": "Dekorlar",
+      "color": "#e2dacf",
+      "size": "m",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum"
+    },
+    {
+      "id": 15,
+      "image": [
+        "https://m.media-amazon.com/images/I/71qP-FINXtL._SL1500_.jpg",
+        ""
+      ],
+      "title": "Macrame",
+      "price": "48",
+      "category": "Dekorlar",
+      "color": "#e2dacf",
+      "size": "m",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum"
+    },
+    {
+      "id": 16,
+      "image": [
+        "https://m.media-amazon.com/images/I/71TAGwaCQLL._SX522_.jpg",
+        ""
+      ],
+      "title": "Gül",
+      "price": "48",
+      "category": "Dekorlar",
+      "color": "#e2dacf",
+      "size": "m",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum"
+    },
+    {
+      "id": 17,
+      "image": [
+        "https://fv9-2.failiem.lv/thumb.php?i=atqge6445&n=befunky_2023-4-2_14-13-12.jpg",
+        ""
+      ],
+      "title": "Minimal",
+      "price": "26",
+      "category": "Dekorlar",
+      "color": "#e2dacf",
+      "size": "s",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum"
+    },
+    {
+      "id": 18,
+      "image": ["https://fv9-5.failiem.lv/thumb_show.php?i=2abt32mku&view", ""],
+      "title": "Dekor",
+      "price": "18",
+      "category": "Dekorlar",
+      "color": "#e2dacf",
+      "size": "m",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum"
+    },
+    {
+      "id": 19,
+      "image": ["https://fv2-1.failiem.lv/thumb_show.php?i=z27txcmgh&view", ""],
+      "title": "Kreslo",
+      "price": "27",
+      "category": "Kreslolar",
+      "color": "#e2dacf",
+      "size": "s",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum"
+    },
+    {
+      "id": 20,
+      "image": ["https://fv9-7.failiem.lv/thumb_show.php?i=hjwpvd257&view", ""],
+      "title": "Stul",
+      "price": "41",
+      "category": "Stullar",
+      "color": "#e2dacf",
+      "size": "m",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum"
+    }
+  ]
+}
