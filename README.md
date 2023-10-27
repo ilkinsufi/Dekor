@@ -1,1 +1,1 @@
-live prewiew: https://ilkinsufi.github.io/dekor/
+live preview: https://ilkinsufi.github.io/dekor/
