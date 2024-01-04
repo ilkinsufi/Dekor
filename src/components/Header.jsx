@@ -142,7 +142,7 @@ function Header({ products, basket, dispatch }) {
               paddingTop: "13px",
               color: "#06264b",
             }}
-            to="/dekor/"
+            to="/"
           >
             Əsas səhifə
           </NavLink>
@@ -314,7 +314,7 @@ function Header({ products, basket, dispatch }) {
       <header>
         <div className="header__main container">
           <div className="logo">
-            <Link to="/dekor/">
+            <Link to="/">
               <img src={logo} />
             </Link>
           </div>
