@@ -74,7 +74,7 @@ function App({ dispatch }) {
         />
 
         <Route
-          path="/dekor/"
+          path="/"
           element={
             <Suspense fallback={<div>Loading...</div>}>
               <Home />
